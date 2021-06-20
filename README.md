@@ -1,4 +1,4 @@
-- 👋 Hi, Mari Nakaya
+- 👋 Hi, I'm Mari Nakaya
 
 <!---
 digimaric/digimaric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
